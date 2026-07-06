@@ -47,18 +47,19 @@ Columns:
    
 **Methodology**
 1. Data Cleaning
-✔ Removed 1,171 duplicate rows
-✔ Standardized job titles (e.g., "ML Engineer" → "Machine Learning Engineer")
-✔ Converted work year to categorical format
+
+ a.Removed 1,171 duplicate rows
+ b.Standardized job titles (e.g., "ML Engineer" → "Machine Learning Engineer")
+ c.Converted work year to categorical format
 
 2. Exploratory Data Analysis (EDA)
-✔ Boxplots, histograms, and correlation heatmaps
-✔ Analyzed salary trends by job title, location, company size
-✔ Identified highest paying jobs by country
+ a.Boxplots, histograms, and correlation heatmaps
+ b.Analyzed salary trends by job title, location, company size
+ c.Identified highest paying jobs by country
 
 3. Predictive Modeling (2024 Salary Forecast)
-✔ Multiple Linear Regression model trained on job title, experience, employment type, location
-✔ Predicted 2024 salaries
+a. Multiple Linear Regression model trained on job title, experience, employment type, location
+b. Predicted 2024 salaries
 
 ## Key Findings
 
